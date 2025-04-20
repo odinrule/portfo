@@ -1,0 +1,7 @@
+{'email': 'database_write@ggmail.com', 'subject': 'wrtie in userdata', 'message': "the dictionary of user's imformation will write in database"}
+{'email': 'database2@gmail.com', 'subject': 'wrtie in userdata2', 'message': "the dictionary of user's inform 2nd times"}{'email': 'email@ya.acom', 'subject': 'the 3nd time testing', 'message': '這是第三次測試，可否寫入並跳下一行？'}/n{'email': 'email@ya.acom', 'subject': 'the 4th time testing', 'message': '這是第4次測試，可否寫入並跳下一行？'}
+,email@ya.acom,the first time testing for ZTM sample,這是第1次ZTM測試，可否寫入並跳下一行？
+edmond@ya.acom,the second time testing for ZTM sample,這是第2次ZTM測試，可否寫入並跳下一行？可否沒有逗號在開頭？
+elonmusk@tesla.com,這是第一次在txt,csv檔都有紀錄,純文字檔和CSV檔也會分別記錄在硬碟上，使用者可以透過contact me聯絡我。即使伺服器關機，重關後也可以在硬碟內找到之前聯絡我的紀錄。
+timcook@apple.com,i am the ceo of apple,tim cook is the CEO after steeve Jobs.
+jackma@alibaba.com,localhosttesting,goodgoodgoood

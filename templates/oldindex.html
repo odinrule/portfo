@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>website root index.html title</title>
+    <link rel='stylesheet' type="text/css" href="static/style.css">
+    <link rel="shortcut icon" href="{{url_for('static', filename='lightning.ico')}}">
+    <!-- <link rel="icon" href="static/lightning.ico" type="image/x-icon">與上行效果相同 -->
+</head>
+
+<body>
+    I am a web master in backend.
+    <!-- name和id可以在網址後輸入，例如 http://127.0.0.1:5000/name/id -->
+    {{name}}
+    {{id}}
+</body>
+
+</html>
